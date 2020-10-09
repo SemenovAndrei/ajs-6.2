@@ -1,3 +1,7 @@
+/**
+ * Возвращает массив значений из obj.special
+ * @param {object} obj - Объект
+ */
 function getSpecial(obj) {
   const arr = [];
 
